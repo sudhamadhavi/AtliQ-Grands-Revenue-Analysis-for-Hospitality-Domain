@@ -100,13 +100,17 @@ AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years
 - Domain Knowledge in Hospitality Domain.
 
 ## DATA SOURCING:
- 1.dim_date
- 2.dim_hotels
- 3.dim_rooms
-fact_aggregated_bookings
-fact_bookings
+The dataset utilized for this analysis was sourced from the Code Basics website, and I have uploaded the corresponding CSV files.
+  1.dim_date
+  2.dim_hotels
+  3.dim_rooms
+  4.fact_aggregated_bookings
+  5.fact_bookings
+
+## MOCKUP DashBoard:
 
     
 
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/640928e0-d6f4-4eaa-ab10-f7ecd1275e65)
 
 
