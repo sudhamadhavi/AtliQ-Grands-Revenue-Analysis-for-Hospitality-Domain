@@ -4,9 +4,8 @@ Live Dashboard Link :
 AtliQ Grands operates luxury hotels across India. Despite having the highest revenue in Mumbai and a solid overall performance, the company faces challenges in various areas including occupancy rates, average ratings, and property performance. This report analyzes key metrics such as revenue, ratings, occupancy percentages, and revenue by category to provide insights and recommendations for improving market share and revenue.
 ## Project Objective:
 AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years. However, recent strategic and operational challenges have impacted its market position. This report uses business and data intelligence to analyze performance metrics and suggest strategies for improvement.
-## Objective: 
-To help AtliQ Grands understand their past data and use it to boost their market share and revenue.
-## Data Analysis
+
+## Data Analysis:
  ## 1. Revenue Analysis
 - Highest Revenue: Mumbai with $661 million.
 - Lowest Revenue: Delhi with $291 million.
