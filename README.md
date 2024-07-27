@@ -97,7 +97,14 @@ AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years
 - Stakeholder Management: Effectively working with and understanding the needs of all parties involved.
 - Presentation Skills: Clearly explaining complex data and findings to stakeholders and management to aid in decision-making.
 - Communication: Keeping everyone updated and open to feedback.
-- Domain Knowledge in Hospitality Domain
+- Domain Knowledge in Hospitality Domain.
+
+## DATA SOURCING:
+ 1.dim_date
+ 2.dim_hotels
+ 3.dim_rooms
+fact_aggregated_bookings
+fact_bookings
 
     
 
