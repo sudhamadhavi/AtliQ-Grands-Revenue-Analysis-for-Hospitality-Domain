@@ -113,7 +113,7 @@ The dataset utilized for this analysis was sourced from the Code Basics website,
 ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/640928e0-d6f4-4eaa-ab10-f7ecd1275e65)
 ## Data Modeling 
 ![Screenshot 2024-07-27 084958](https://github.com/user-attachments/assets/9e395b4e-8733-4953-996c-7b4c149b6975)
-:
+
 ## Dashboarding:
 
 ![AtliQ Grands](https://github.com/user-attachments/assets/62fe52a5-131a-4a6e-9ad0-1b56c13f7a0b)
