@@ -43,7 +43,7 @@ AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years
  - Lowest Occupancy: AtliQ_Seasons with 44.57%.
 ## Insights:
  - AtliQ_Blue excels in occupancy, potentially due to better location, service, or marketing.
- - AtliQ_Seasons’ low occupancy rate indicates issues that need to be addressed to improve its performance.
+ - AtliQ_Seasons’ low occupancy rate indicates issues that need to be addressed to improve its  xv/performance.
 ## 7. Occupancy % by Day Type
  - Weekend: 62.64%
  - Weekday: 55.85%
