@@ -71,6 +71,12 @@ To help AtliQ Grands understand their past data and use it to boost their market
   - Standardize best practices across properties to ensure consistent service quality.
   - Leverage data-driven insights to identify high-value customer segments and tailor promotions accordingly.
   - Benchmark performance against competitors and industry standards to identify areas for improvement.
+## Technical Implementation:
+ - Advanced DAX formulas and functions
+ - Creation of calculated columns
+ - Data extraction, cleaning, and transformation (ETL)
+ - Data modeling
+ - Data visualization
 
 ## Business Related Terms:
 - ADR (Average Daily Rate)
@@ -88,7 +94,12 @@ To help AtliQ Grands understand their past data and use it to boost their market
 - Total no show Bookings
 - Total Bookings
   
-- 
+## Soft Skills:
+- Stakeholder Management: Effectively working with and understanding the needs of all parties involved.
+- Presentation Skills: Clearly explaining complex data and findings to stakeholders and management to aid in decision-making.
+- Communication: Keeping everyone updated and open to feedback.
+- Domain Knowledge in Hospitality Domain
+
     
 
 
