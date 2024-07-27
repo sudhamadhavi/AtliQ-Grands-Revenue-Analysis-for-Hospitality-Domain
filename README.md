@@ -71,6 +71,24 @@ To help AtliQ Grands understand their past data and use it to boost their market
   - Standardize best practices across properties to ensure consistent service quality.
   - Leverage data-driven insights to identify high-value customer segments and tailor promotions accordingly.
   - Benchmark performance against competitors and industry standards to identify areas for improvement.
+
+## Business Related Terms:
+- ADR (Average Daily Rate)
+- Realisation %
+- RevPAR (Revenue Per Available Room)
+- DBRN (Daily Booked Room Nights)
+- DSRN (Daily Sellable Room Nights)
+- DURN (Daily Utilized Room Nights)
+- No Show rate %
+- Cancellation %
+- Occupancy %
+- Total successful Bookings
+- Total Cancelled Bookings
+- Total Checked Out
+- Total no show Bookings
+- Total Bookings
+  
+- 
     
 
 
