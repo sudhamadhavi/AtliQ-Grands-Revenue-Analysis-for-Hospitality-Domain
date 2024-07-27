@@ -99,27 +99,7 @@ AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years
 - Communication: Keeping everyone updated and open to feedback.
 - Domain Knowledge in Hospitality Domain.
 
-## DATA SOURCING:
-The dataset utilized for this analysis was sourced from the Code Basics website, and I have uploaded the corresponding CSV files.
-  - dim_date
-  - dim_hotels
-  - dim_rooms
-  - fact_aggregated_bookings
-  - fact_bookings
-
-## MOCKUP DashBoard:
-
-    
-![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/640928e0-d6f4-4eaa-ab10-f7ecd1275e65)
-## Data Modeling 
-![Screenshot 2024-07-27 084958](https://github.com/user-attachments/assets/9e395b4e-8733-4953-996c-7b4c149b6975)
-
-## Dashboarding:
-
-![AtliQ Grands](https://github.com/user-attachments/assets/62fe52a5-131a-4a6e-9ad0-1b56c13f7a0b)
-
-
-![Occupancy Rates](https://github.com/user-attachments/assets/3ebb7ce5-40e0-495f-93cf-0cb9d695e3e7)
-
-![Revenue](https://github.com/user-attachments/assets/7b7eb817-0bce-4cce-a015-600e30dd3fab)
-
+## Repository Overview:
+- AtliQ Grands Hospitality Analysis:Contains Dashboards which shows how much revenue can increase with its analysis.
+- Data Sets Used for Analysis.
+  
