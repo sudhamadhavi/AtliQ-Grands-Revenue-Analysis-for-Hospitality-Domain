@@ -100,6 +100,6 @@ AtliQ Grands has been a prominent player in the luxury hotel sector for 20 years
 - Domain Knowledge in Hospitality Domain.
 
 ## Repository Overview:
-- AtliQ Grands Hospitality Analysis:Contains Dashboards which shows how much revenue can increase with its analysis.
+- AtliQ Grands Hospitality Analysis.PDF : Contains Dashboards which shows how much revenue can increase with its analysis.
 - Data Sets Used for Analysis.
   
