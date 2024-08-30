@@ -1,5 +1,5 @@
 # AtliQ-Grands-Revenue-Analysis-for-Hospitality-Domain
-Live Dashboard Link :
+Live Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiZDhjZjYxZDAtZmVmYi00NDkxLWFiNjYtMjhiZjFlZTExYzQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## About AtliQ Grands:
 AtliQ Grands operates luxury hotels across India. Despite having the highest revenue in Mumbai and a solid overall performance, the company faces challenges in various areas including occupancy rates, average ratings, and property performance. This report analyzes key metrics such as revenue, ratings, occupancy percentages, and revenue by category to provide insights and recommendations for improving market share and revenue.
 ## Project Objective:
